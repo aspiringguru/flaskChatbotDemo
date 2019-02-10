@@ -1,0 +1,6 @@
+
+
+https://medium.com/datadriveninvestor/building-a-machine-learning-chat-bot-with-flask-framework-and-python-2c24b2def49b
+
+#?not sure if this is useless tech
+https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/
